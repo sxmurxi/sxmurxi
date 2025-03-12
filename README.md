@@ -45,8 +45,8 @@ I’m a System Administrator passionate about automation, cloud computing, and i
 
 ### 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=sxmurxi&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxmurxi&theme=tokyonight" width="48%" alt="GitHub Streak">
 </p>
 
 ---
