@@ -14,9 +14,9 @@ I’m a System Administrator passionate about automation, cloud computing, and i
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
@@ -31,15 +31,15 @@ I’m a System Administrator passionate about automation, cloud computing, and i
 
 ---
 
-### 🛠 **My DevOps Roadmap**
-✔ Linux Administration  
-✔ Shell Scripting & Automation  
-✔ Networking & Security Basics  
-✔ Version Control (Git, GitHub)  
-✔ Containerization (Docker)  
-🔄 CI/CD Pipelines (GitHub Actions, Jenkins)  
-🚀 Cloud Services (AWS, GCP)  
-🔜 Kubernetes & Advanced Orchestration  
+🛠 My DevOps Roadmap
+✔ Linux Administration & Networking
+✔ Bash Scripting & Automation
+✔ Git, GitHub & Version Control
+✔ Docker & Containerization
+🚧 Learning CI/CD (GitHub Actions, Jenkins)
+☁️ Exploring AWS & GCP
+🔄 Studying Infrastructure as Code (Terraform, Ansible)
+🔜 Getting Started with Kubernetes
 
 ---
 
@@ -52,7 +52,7 @@ I’m a System Administrator passionate about automation, cloud computing, and i
 ---
 
 ### 🌍 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksandr-tentser)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
 
