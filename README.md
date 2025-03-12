@@ -32,14 +32,14 @@ I’m a System Administrator passionate about automation, cloud computing, and i
 ---
 
 🛠 My DevOps Roadmap
-✔ Linux Administration & Networking
-✔ Bash Scripting & Automation
-✔ Git, GitHub & Version Control
-✔ Docker & Containerization
-🚧 Learning CI/CD (GitHub Actions, Jenkins)
-☁️ Exploring AWS & GCP
-🔄 Studying Infrastructure as Code (Terraform, Ansible)
-🔜 Getting Started with Kubernetes
+  ✔ Linux Administration & Networking
+  ✔ Bash Scripting & Automation
+  ✔ Git, GitHub & Version Control
+  ✔ Docker & Containerization
+  🚧 Learning CI/CD (GitHub Actions, Jenkins)
+  ☁️ Exploring AWS & GCP
+  🔄 Studying Infrastructure as Code (Terraform, Ansible)
+  🔜 Getting Started with Kubernetes
 
 ---
 
